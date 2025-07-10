@@ -1,7 +1,8 @@
 # Welcome, I'm Derlys Benito 👋
 
 ### Mobile Developer
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derlysbenito&show_icons=true)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derlysbenito&show_icons=true) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=derlysbenito)](https://git.io/streak-stats)
 
 ## About Me
 
