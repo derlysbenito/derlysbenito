@@ -1,7 +1,7 @@
 # Welcome, I'm Derlys Benito 👋
 
 ### Mobile Developer
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derlysbenito&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derlysbenito&show_icons=true)
 
 ## About Me
 
