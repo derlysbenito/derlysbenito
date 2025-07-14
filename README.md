@@ -2,7 +2,7 @@
 
 ### Mobile Developer
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derlysbenito&show_icons=true) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=derlysbenito)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=derlysbenito&theme=highcontrast)](#)
 
 ## About Me
 
